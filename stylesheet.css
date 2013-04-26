@@ -1,0 +1,23 @@
+body{
+  font-family:cursive; 
+  margin:auto;
+  text-align:center;
+  background-color:#2E9AFE;
+}
+
+li{
+  text-align:left;
+}
+
+span{
+  color:white;
+  font-family:Verdana;
+  font-size:2em;
+}
+
+ul{
+  margin:auto;
+  text-align:center;
+  border:2px solid;
+  width:400px;
+}
